@@ -14,4 +14,4 @@ function drawX(tamano){
     }
 }
 }
-drawX(8);
+drawX(5);
